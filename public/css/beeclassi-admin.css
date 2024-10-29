@@ -1,0 +1,25 @@
+.pro_table_header{
+background:#de0000;
+color:#fff;
+
+}
+.pro_table_content{
+background:#FFCC00;
+font-size:13px;
+
+padding:40px;
+
+}
+
+.pro_table_content  li{
+background:#FFCC00;
+
+
+list-style:disc;
+}
+
+
+.pro_table_header h3 {
+
+    color: #fff;
+}
